@@ -1,0 +1,26 @@
+body {
+	background-color: white;
+	color: black;
+	font-size: 2em
+	
+}
+
+#main-app {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+	padding: 50px;
+}
+
+#input-form {
+font-size: 1.5em	
+}
+
+.submit {
+	background-color: black;
+	color: white;
+
+}
+
+
+
